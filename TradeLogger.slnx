@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TradeLogger.DataAccess/TradeLogger.DataAccess.csproj" />
+  <Project Path="TradeLogger.Logic/TradeLogger.Logic.csproj" />
+  <Project Path="TradeLogger.Providers/TradeLogger.Providers.csproj" />
+  <Project Path="TradeLogger.Utilities/TradeLogger.Utilities.csproj" />
+  <Project Path="TradeLogger/TradeLogger.csproj" />
+</Solution>
